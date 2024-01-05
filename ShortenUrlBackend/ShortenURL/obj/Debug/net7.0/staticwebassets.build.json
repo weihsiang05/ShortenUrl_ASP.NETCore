@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nnw1Li3CarRBHl6FUD32KFZaLb/mXWY6bRVZZITLSvs=",
+  "Source": "ShortenURL",
+  "BasePath": "_content/ShortenURL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
